@@ -39,7 +39,7 @@
   <!-- Lead Image: CUNY Journalism School building -->
   <ImageWithCaption
     src="https://i.natgeofe.com/k/6289c775-a06c-426a-badb-8d181a55237b/raccoon-grass_4x3.jpg"
-    alt="The Craig Newmark Graduate School of Journalism is at 219 West 40th Street in Midtown Manhattan."
+    alt="A raccoon."
     caption="An award-winning investigative journalist. Also, yes, a raccoon."
     credit="U.S. Raccoon Observatory"
   />
