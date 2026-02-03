@@ -1,5 +1,5 @@
 <!--
-  This is you page!
+  This is your page!
 -->
 <script>
   // Import all the news furniture components
@@ -9,9 +9,9 @@
   import RelatedLinks from '$lib/components/RelatedLinks.svelte';
 
   // Article metadata
-  let headline = 'Become a force for good. Join our next class.';
-  let byline = 'NYCity News Service';
-  let pubDate = '2026-01-31';
+  let headline = 'Raccoons ovetake J-school. Maybe for the best?';
+  let byline = 'A raccoon';
+  let pubDate = '2026-02-02';
 
   // Related stories
   const relatedStories = [
@@ -38,48 +38,48 @@
 
   <!-- Lead Image: CUNY Journalism School building -->
   <ImageWithCaption
-    src="/example-photo.gif"
+    src="https://i.natgeofe.com/k/6289c775-a06c-426a-badb-8d181a55237b/raccoon-grass_4x3.jpg"
     alt="The Craig Newmark Graduate School of Journalism is at 219 West 40th Street in Midtown Manhattan."
-    caption="The Craig Newmark Graduate School of Journalism is at 219 West 40th Street in Midtown Manhattan."
-    credit="Craig Newmark Graduate School of Journalism"
+    caption="An award-winning investigative journalist. Also, yes, a raccoon."
+    credit="U.S. Raccoon Observatory"
   />
 
   <!-- Article Body: The main story text with proper typography -->
   <ArticleBody>
     <p>
-      At the Craig Newmark Graduate School of Journalism at the City University of New York, change is in our DNA. That comes of being born in 2006, as the digital revolution was transforming our profession in ways none of us could have imagined.
+      Raccoons have overtaken the graduate school. And we honestly think they're doing a great job.
     </p>
 
     <p>
-      We fashioned a school to teach the latest storytelling, entrepreneurial, and technological skills alongside reporting, writing, and ethics. Beyond that, we’ve crafted a culture that spurns complacency, that isn’t afraid to pivot before the ground under us shifts.
+      Who would have thought the next generation of intrepid young journalists would be so... creaturely.
     </p>
 
     <p>
-      Our mission is to serve the public interest – by training new journalists from varied economic, racial, and cultural backgrounds who will bring much-needed diversity to newsrooms, by helping mid-career journalists retool their skills, and by partnering with other media organizations to find new paths to excellence.
+      Oh, there's no reason to "fear" the raccoons. We welcome our new overlords.
     </p>
 
     <p>
-      Our low tuition rates, along with the added backing of private donors, allow candidates for our master’s degrees in journalism and engagement journalism to receive a world-class education at an affordable price. We also offer a unique bilingual master’s in journalism for students fluent in English and Spanish.
+      I'm sure you have some questions. Sadly, our raccoons are not able to speak.
     </p>
 
     <p>
-      Our three media centers provide research, training, thought leadership, industry meet-ups, and financial support for quality journalistic work.
+      I'm sure they have some spare garbage you could borrow, though.
     </p>
 
     <p>
-      We also offer a robust professional education program through regular evening and weekend workshops. And we support in-depth reporting projects of professional journalists through fellowship grants.
+      One day, we might all wish to be raccoons.
     </p>
 
     <p>
-      Classes are led by accomplished full-time faculty and adjuncts, who tap their networks to help students and graduates find internships, freelance opportunities and — the ultimate prize — jobs.
+      Raccoons.
     </p>
 
     <p>
-      At a time when our profession is reeling from financial pressures and lack of trust, the Newmark Graduate School of Journalism is committed to producing the next generation of skilled, ethically minded, and diverse journalists.
+      Raccoons?
     </p>
 
     <p>
-      We invite you to be part of our world.
+      Yes, raccoons.
     </p>
   </ArticleBody>
 
